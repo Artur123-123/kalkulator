@@ -1,0 +1,33 @@
+.btn {
+    background-color: cornsilk;
+    /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    min-width: 100px;
+}
+
+.divwithbutton {
+    margin: 5px;
+}
+
+.btn-disabled {
+    background-color: brown;
+}
+
+#inputShowScore {
+    border-bottom: darkblue 1px;
+}
+
+.btn:hover {
+    background-color: hotpink;
+}
+
+#all {
+    width: 50%;
+    margin: 0 auto;
+}
